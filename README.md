@@ -1,2 +1,2 @@
-# ckad-excercises
-CKAD Practice and Excercises
+# ckad-exercises
+CKAD Practice and Exercises
